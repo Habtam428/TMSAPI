@@ -1,0 +1,9 @@
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.csproj.AssemblyReference.cache
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.AssemblyInfoInputs.cache
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.AssemblyInfo.cs
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.csproj.CoreCompileInputs.cache
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CSUG\Desktop\TMSAPI6\TMSAPI\obj\Debug\net10.0\TmsApi.sourcelink.json

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlsxT5KFenc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CSUG\\Desktop\\TMSAPI6\\TMSAPI\\TmsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CSUG\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\CSUG\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\CSUG\\.nuget\\packages\\scalar.aspnetcore\\2.16.3\\scalar.aspnetcore.2.16.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\CSUG\\Desktop\\TMSAPI6\\TMSAPI\\TmsApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\CSUG\\Desktop\\TMSAPI6\\TMSAPI\\TmsApi.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
